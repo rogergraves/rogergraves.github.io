@@ -43,6 +43,11 @@
 	h5 {font-size: 13px;}
 	h6 {font-size: 12px;}
 	
+	h5 span.description {
+		font-size: 10px;
+		float: right;
+	}
+	
 	h3.main-heading {
 		background-image:url('../images/plus.png');
 		background-repeat: no-repeat;
